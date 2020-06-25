@@ -1,1 +1,1 @@
-# ML-Playground
+# Machine Learning notes for reference
